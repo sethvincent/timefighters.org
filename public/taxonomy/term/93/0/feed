@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - Chelsea</title>
+ <link>http://timefighters.org/taxonomy/term/93/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Comics Review - The Nobody</title>
+ <link>http://timefighters.org/news/comics/comics-review-nobody</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-uploadcomic&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-image-jpeg&quot;&gt;&lt;img class=&quot;field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://timefighters.org/sites/timefighters.org/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://timefighters.org/sites/timefighters.org/files/Comics review-Nobody.jpg&quot; type=&quot;image/jpeg; length=2006704&quot;&gt;Comics review-Nobody.jpg&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/comics/comics-review-nobody#comments</comments>
+ <category domain="http://timefighters.org/tags/chelsea">Chelsea</category>
+ <category domain="http://timefighters.org/tags/comics">comics</category>
+ <category domain="http://timefighters.org/tags/danger-room">danger room</category>
+ <category domain="http://timefighters.org/tags/review">review</category>
+ <pubDate>Sat, 01 Aug 2009 02:09:25 +0000</pubDate>
+ <dc:creator>chelseathebaker</dc:creator>
+ <guid isPermaLink="false">223 at http://timefighters.org</guid>
+</item>
+<item>
+ <title>Comics Review - T-Minus: the Race to the Moon</title>
+ <link>http://timefighters.org/news/comics/comics-review-t-minus-race-moon</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-uploadcomic&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-image-jpeg&quot;&gt;&lt;img class=&quot;field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://timefighters.org/sites/timefighters.org/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://timefighters.org/sites/timefighters.org/files/Comics Review-Tminus-small.jpg&quot; type=&quot;image/jpeg; length=410564&quot;&gt;Comics Review-Tminus-small.jpg&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/comics/comics-review-t-minus-race-moon#comments</comments>
+ <category domain="http://timefighters.org/tags/book">book</category>
+ <category domain="http://timefighters.org/tags/chelsea">Chelsea</category>
+ <category domain="http://timefighters.org/tags/comics">comics</category>
+ <category domain="http://timefighters.org/tags/review">review</category>
+ <pubDate>Sat, 18 Jul 2009 05:44:17 +0000</pubDate>
+ <dc:creator>chelseathebaker</dc:creator>
+ <guid isPermaLink="false">219 at http://timefighters.org</guid>
+</item>
+<item>
+ <title>Comics Review - Asterios Polyp</title>
+ <link>http://timefighters.org/news/comics/comics-review-asterios-polyp</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-uploadcomic&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-image-jpeg&quot;&gt;&lt;img class=&quot;field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://timefighters.org/sites/timefighters.org/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://timefighters.org/sites/timefighters.org/files/Comics Review-Asterios-small.jpg&quot; type=&quot;image/jpeg; length=337150&quot;&gt;Comics Review-Asterios-small.jpg&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/comics/comics-review-asterios-polyp#comments</comments>
+ <category domain="http://timefighters.org/tags/book">book</category>
+ <category domain="http://timefighters.org/tags/chelsea">Chelsea</category>
+ <category domain="http://timefighters.org/tags/comics">comics</category>
+ <category domain="http://timefighters.org/tags/review">review</category>
+ <pubDate>Sat, 18 Jul 2009 05:42:57 +0000</pubDate>
+ <dc:creator>chelseathebaker</dc:creator>
+ <guid isPermaLink="false">218 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

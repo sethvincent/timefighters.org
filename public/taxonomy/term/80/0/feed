@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - Sorry Charlie</title>
+ <link>http://timefighters.org/taxonomy/term/80/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Seeking Truth</title>
+ <link>http://timefighters.org/news/comics/seeking-truth</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-uploadcomic&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-image-jpeg&quot;&gt;&lt;img class=&quot;field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://timefighters.org/sites/timefighters.org/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://timefighters.org/sites/timefighters.org/files/001SeekingTruth7_01_09.jpg&quot; type=&quot;image/jpeg; length=113290&quot;&gt;001SeekingTruth7_01_09.jpg&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Have any suggestions where I can find truth? Write Daugherty.charlie AT gmail DOT com&lt;/p&gt;
+</description>
+ <comments>http://timefighters.org/news/comics/seeking-truth#comments</comments>
+ <category domain="http://timefighters.org/tags/charlie-d">Charlie D.</category>
+ <category domain="http://timefighters.org/tags/seeking-truth">Seeking Truth</category>
+ <category domain="http://timefighters.org/tags/sorry-charlie">Sorry Charlie</category>
+ <pubDate>Thu, 02 Jul 2009 04:33:11 +0000</pubDate>
+ <dc:creator>Charlie</dc:creator>
+ <guid isPermaLink="false">113 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

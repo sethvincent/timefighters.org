@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - comic aggregator</title>
+ <link>http://timefighters.org/taxonomy/term/147/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>COMIC HUB</title>
+ <link>http://timefighters.org/codex/ideas/comic-hub</link>
+ <description>&lt;p&gt;Hosting space for web comic artist in the northwest that connects web comic artist together. Olympia/Seattle as a starting base. The idea is that anyone could potentially start there own website deticated to comics. Each website would be linked to a larger website that gathered data that could be arranged in interesting ways including most active page most viewed page, etc. It could also work as an RSS feed for web comics already existing. A social networking site just for comics. Or maybe just an aggregator.&lt;/p&gt;
+</description>
+ <comments>http://timefighters.org/codex/ideas/comic-hub#comments</comments>
+ <category domain="http://timefighters.org/tags/comic-aggregator">comic aggregator</category>
+ <category domain="http://timefighters.org/tags/social-website">social website</category>
+ <category domain="http://timefighters.org/tags/web-comic">web comic</category>
+ <pubDate>Fri, 26 Mar 2010 18:01:07 +0000</pubDate>
+ <dc:creator>Charlie</dc:creator>
+ <guid isPermaLink="false">253 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

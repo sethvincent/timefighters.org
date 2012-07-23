@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - danger room</title>
+ <link>http://timefighters.org/taxonomy/term/13/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Comics Review - Grown-Ups are Dumb</title>
+ <link>http://timefighters.org/news/comics/comics-review-grown-ups-are-dumb</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-uploadcomic&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-image-jpeg&quot;&gt;&lt;img class=&quot;field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://timefighters.org/sites/timefighters.org/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://timefighters.org/sites/timefighters.org/files/Comics Review-Grown Ups.jpg&quot; type=&quot;image/jpeg; length=2053210&quot;&gt;Comics Review-Grown Ups.jpg&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/comics/comics-review-grown-ups-are-dumb#comments</comments>
+ <category domain="http://timefighters.org/tags/comics">comics</category>
+ <category domain="http://timefighters.org/tags/danger-room">danger room</category>
+ <category domain="http://timefighters.org/place/danger-room-comics">Danger Room Comics</category>
+ <pubDate>Sat, 28 Nov 2009 05:51:07 +0000</pubDate>
+ <dc:creator>chelseathebaker</dc:creator>
+ <guid isPermaLink="false">248 at http://timefighters.org</guid>
+</item>
+<item>
+ <title>Comics Review - The Nobody</title>
+ <link>http://timefighters.org/news/comics/comics-review-nobody</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-uploadcomic&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file clear-block&quot;&gt;&lt;div class=&quot;filefield-icon field-icon-image-jpeg&quot;&gt;&lt;img class=&quot;field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://timefighters.org/sites/timefighters.org/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png&quot; /&gt;&lt;/div&gt;&lt;a href=&quot;http://timefighters.org/sites/timefighters.org/files/Comics review-Nobody.jpg&quot; type=&quot;image/jpeg; length=2006704&quot;&gt;Comics review-Nobody.jpg&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/comics/comics-review-nobody#comments</comments>
+ <category domain="http://timefighters.org/tags/chelsea">Chelsea</category>
+ <category domain="http://timefighters.org/tags/comics">comics</category>
+ <category domain="http://timefighters.org/tags/danger-room">danger room</category>
+ <category domain="http://timefighters.org/tags/review">review</category>
+ <pubDate>Sat, 01 Aug 2009 02:09:25 +0000</pubDate>
+ <dc:creator>chelseathebaker</dc:creator>
+ <guid isPermaLink="false">223 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

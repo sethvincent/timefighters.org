@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - live</title>
+ <link>http://timefighters.org/taxonomy/term/58/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Socks and Sandals</title>
+ <link>http://timefighters.org/news/videos/socks-and-sandals</link>
+ <description>&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div id=&quot;emvideo-youtube-flash-1&quot; class=&quot; swfobject&quot;&gt;Sorry, you need to install flash to see this content.&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/videos/socks-and-sandals#comments</comments>
+ <category domain="http://timefighters.org/tags/live">live</category>
+ <category domain="http://timefighters.org/tags/music">music</category>
+ <category domain="http://timefighters.org/tags/olympia">olympia</category>
+ <category domain="http://timefighters.org/tags/punk-all">punk all</category>
+ <category domain="http://timefighters.org/tags/socks-and-sandals">socks and sandals</category>
+ <media:content url="http://youtube.com/v/qo2BA6Uwasc" fileSize="1096" type="application/x-shockwave-flash"> <media:thumbnail url="http://img.youtube.com/vi/qo2BA6Uwasc/0.jpg" />
+</media:content>
+ <enclosure url="http://youtube.com/v/qo2BA6Uwasc" length="1096" type="application/x-shockwave-flash" />
+ <pubDate>Mon, 11 May 2009 00:33:09 +0000</pubDate>
+ <dc:creator>ratBlog</dc:creator>
+ <guid isPermaLink="false">77 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

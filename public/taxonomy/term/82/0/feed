@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - Margy Pepper</title>
+ <link>http://timefighters.org/taxonomy/term/82/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Margy Pepper at Olympia&#039;s Super Shed</title>
+ <link>http://timefighters.org/news/videos/margy-pepper-olympias-super-shed</link>
+ <description>&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;object type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;400&quot; data=&quot;http://www.vimeo.com/moogaloop.swf?clip_id=5470023&amp;amp;server=www.vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=&quot;&gt;&lt;param name=&quot;quality&quot; value=&quot;best&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;scale&quot; value=&quot;showAll&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.vimeo.com/moogaloop.swf?clip_id=5470023&amp;amp;server=www.vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=&quot; /&gt;&lt;/object&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Margy Pepper playing in a shed on the west side of Olympia. &lt;a title=&quot;Margy Pepper on Myspace&quot; href=&quot;http://www.myspace.com/margypepper&quot;&gt;More about Margy Pepper.&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://timefighters.org/news/videos/margy-pepper-olympias-super-shed#comments</comments>
+ <category domain="http://timefighters.org/tags/margy-pepper">Margy Pepper</category>
+ <category domain="http://timefighters.org/tags/music">music</category>
+ <category domain="http://timefighters.org/tags/olympia">olympia</category>
+ <category domain="http://timefighters.org/tags/super-shed">Super shed</category>
+ <pubDate>Mon, 06 Jul 2009 09:07:43 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">198 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - feather mountain</title>
+ <link>http://timefighters.org/taxonomy/term/22/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>feather mountain</title>
+ <link>http://timefighters.org/news/videos/feather-mountain</link>
+ <description>&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;embed src=&quot;http://blip.tv/play/g4Q+9q0yjdAR&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;400&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/videos/feather-mountain#comments</comments>
+ <category domain="http://timefighters.org/tags/feather-mountain">feather mountain</category>
+ <category domain="http://timefighters.org/tags/music">music</category>
+ <category domain="http://timefighters.org/tags/-finger-complex">the finger complex</category>
+ <media:content url="http://blip.tv/file/get/Timefighter-featherMountain807.flv" fileSize="14786511" type="video/x-flv" duration="226" width="640" height="480"> <media:thumbnail url="http://a.images.blip.tv/Timefighter-featherMountain437-379.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Timefighter-featherMountain807.flv" length="14786511" type="video/x-flv" />
+ <pubDate>Sat, 28 Mar 2009 16:37:43 +0000</pubDate>
+ <dc:creator>debutantewaltz</dc:creator>
+ <guid isPermaLink="false">23 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - last word books</title>
+ <link>http://timefighters.org/taxonomy/term/18/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Otis Pig Breaths &quot;life leaks from lips&quot;</title>
+ <link>http://timefighters.org/news/videos/otis-pig-breaths-life-leaks-lips</link>
+ <description>&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;embed src=&quot;http://blip.tv/play/AfCSYpS2MQ&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;400&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://timefighters.org/tags/last-word-books">last word books</category>
+ <category domain="http://timefighters.org/tags/otis-pig">otis pig</category>
+ <media:content url="http://blip.tv/file/get/Debutantewaltz-OtisPigBreathsLifeLeaksFromLips350.flv" fileSize="45119665" type="video/x-flv" duration="685" width="640" height="480"> <media:thumbnail url="http://a.images.blip.tv/Debutantewaltz-OtisPigBreathsLifeLeaksFromLips171-502.jpg" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Debutantewaltz-OtisPigBreathsLifeLeaksFromLips350.flv" length="45119665" type="video/x-flv" />
+ <pubDate>Sat, 28 Mar 2009 05:37:42 +0000</pubDate>
+ <dc:creator>debutantewaltz</dc:creator>
+ <guid isPermaLink="false">19 at http://timefighters.org</guid>
+</item>
+<item>
+ <title>Cataldo at Last Word Books Olympia, WA</title>
+ <link>http://timefighters.org/news/videos/cataldo-last-word-books-olympia-wa</link>
+ <description>&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;embed src=&quot;http://blip.tv/play/AfCRXpS2MQ&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;400&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://timefighters.org/news/videos/cataldo-last-word-books-olympia-wa#comments</comments>
+ <category domain="http://timefighters.org/tags/cataldo">cataldo</category>
+ <category domain="http://timefighters.org/tags/last-word-books">last word books</category>
+ <category domain="http://timefighters.org/tags/music">music</category>
+ <media:content url="http://blip.tv/file/get/Debutantewaltz-CataldoAtLastWordBooksOlympiaWA108.flv" fileSize="13091718" type="video/x-flv" duration="190" width="640" height="480"> <media:thumbnail url="http://a.images.blip.tv/Debutantewaltz-CataldoAtLastWordBooksOlympiaWA804.JPG" />
+</media:content>
+ <enclosure url="http://blip.tv/file/get/Debutantewaltz-CataldoAtLastWordBooksOlympiaWA108.flv" length="13091718" type="video/x-flv" />
+ <pubDate>Sat, 28 Mar 2009 05:33:04 +0000</pubDate>
+ <dc:creator>debutantewaltz</dc:creator>
+ <guid isPermaLink="false">18 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://timefighters.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>timefighters.org - phil elvrum</title>
+ <link>http://timefighters.org/taxonomy/term/102/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>&quot;You Turn Me On&quot; by Mount Eerie</title>
+ <link>http://timefighters.org/news/videos/you-turn-me-mount-eerie</link>
+ <description>&lt;div class=&quot;field field-type-emvideo field-field-video&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;object type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;400&quot; data=&quot;http://www.vimeo.com/moogaloop.swf?clip_id=5705452&amp;amp;server=www.vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=&quot;&gt;&lt;param name=&quot;quality&quot; value=&quot;best&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;scale&quot; value=&quot;showAll&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.vimeo.com/moogaloop.swf?clip_id=5705452&amp;amp;server=www.vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=&quot; /&gt;&lt;/object&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Mount Eerie covers Beat Happening at What The Heck Fest 09&lt;/p&gt;
+</description>
+ <comments>http://timefighters.org/news/videos/you-turn-me-mount-eerie#comments</comments>
+ <category domain="http://timefighters.org/tags/beat-happening">beat happening</category>
+ <category domain="http://timefighters.org/tags/calvin-johnson">calvin johnson</category>
+ <category domain="http://timefighters.org/tags/karl-blau">karl blau</category>
+ <category domain="http://timefighters.org/tags/mount-eerie">mount eerie</category>
+ <category domain="http://timefighters.org/tags/phil-elvrum">phil elvrum</category>
+ <category domain="http://timefighters.org/tags/what-heck-fest">what the heck fest</category>
+ <category domain="http://timefighters.org/tags/you-turn-me">you turn me on</category>
+ <pubDate>Fri, 14 Aug 2009 08:02:24 +0000</pubDate>
+ <dc:creator>weirds are so word</dc:creator>
+ <guid isPermaLink="false">229 at http://timefighters.org</guid>
+</item>
+</channel>
+</rss>
